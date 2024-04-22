@@ -1,6 +1,9 @@
-"Early Detection of Alzheimer's Disease using personalised Federated Learning and GANs"¶
+"Early Detection of Alzheimer's Disease using personalised Federated Learning and GANs"
+
 MS Thesis by Iffat Fatima-i222831 
+
 Supervisor: Dr. Uzair Iqbal
+
 FAST NUCES ISB
 
 Ojectives:
