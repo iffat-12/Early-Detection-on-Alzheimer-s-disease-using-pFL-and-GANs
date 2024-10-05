@@ -4,7 +4,7 @@ MS Thesis by Iffat Fatima-i222831
 
 Supervisor: Dr. Uzair Iqbal
 
-FAST NUCES ISB
+National University of Computing and Emerging Sciences FAST, A. K. Barohi Road, H-11/4, Islamabad Capital Territory, Pakistan
 
 Ojectives:
 * Timely Intervention: Identify the disease at its earliest stages to enable prompt medical and lifestyle interventions that may slow down its progression.
