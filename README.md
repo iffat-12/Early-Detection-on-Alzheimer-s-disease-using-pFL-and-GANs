@@ -1,4 +1,4 @@
-"Early Detection of Alzheimer's Disease using personalised Federated Learning and GANs"
+"Early Detection of Alzheimer’s Disease using personalized Federated Learning and GANs: An Empirical Study"
 
 MS Thesis by Iffat Fatima-i222831 
 
